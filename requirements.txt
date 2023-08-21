@@ -1,4 +1,4 @@
 matplotlib==3.4.3
 regex==2023.8.8
 tensorflow==2.9.1
-streamlit==1.25.0
+
