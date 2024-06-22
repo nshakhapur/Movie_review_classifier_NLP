@@ -1,4 +1,5 @@
 # Sentiment Classifier Using Natural Language Processing
+
 ![rm373batch5-19 Medium](https://github.com/nshakhapur/Sentiment_classifier_NLP/assets/96770503/55a7750b-6e19-45cd-8be2-d6e0c56495b6)
 
 
@@ -9,7 +10,6 @@
 - [Methodology](#methodology)
 - [Results](#results)
 
-Sure! Here are the revised sections of the README in terms of psychology:
 
 ## Introduction
 The aim of this project is to build a sentiment classifier using Natural Language Processing (NLP) techniques, with a focus on psychological insights. Sentiment analysis is a crucial aspect of understanding human emotions, cognitive processes, and social behaviors. By leveraging NLP and machine learning algorithms, this project seeks to accurately classify sentiments expressed in text data, contributing to the understanding of psychological states and emotional well-being.
