@@ -1,6 +1,6 @@
 # Sentiment Classifier Using Natural Language Processing
+![rm373batch5-19 Medium](https://github.com/nshakhapur/Sentiment_classifier_NLP/assets/96770503/55a7750b-6e19-45cd-8be2-d6e0c56495b6)
 
-![rm373batch5-19](https://github.com/nshakhapur/Sentiment_classifier_NLP/assets/96770503/5191aa84-c96a-4af6-93b2-11b2ed49b198)
 
 ## Table of Contents
 - [Introduction](#introduction)
